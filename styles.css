@@ -114,6 +114,10 @@
     padding: 1.8%;
 }
 
+.boton-desencriptar{
+    margin-left: 15px;
+}
+
 .encriptado{
     display: flex;
     justify-content: center;
